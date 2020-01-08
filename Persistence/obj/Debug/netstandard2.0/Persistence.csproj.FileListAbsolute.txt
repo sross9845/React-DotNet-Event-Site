@@ -1,0 +1,11 @@
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\seanr\code\C#\React-c#-project\reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
